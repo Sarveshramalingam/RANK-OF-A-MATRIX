@@ -24,6 +24,7 @@ solution=np.linalg.matrix_rank(a)
 print(solution)
 ~~~
 ## Output:
+
 <img width="1274" height="280" alt="image" src="https://github.com/user-attachments/assets/bd8eb6dc-5266-4987-b21e-ec795b52ba28" />
 
 ## Result:
